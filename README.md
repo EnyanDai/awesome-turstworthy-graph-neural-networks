@@ -1,5 +1,5 @@
 # Awesome Trustworthy Graph Neural Networks
-This repository aims to provide links to works in trustworthy graph neural networks. If you find this repo useful, please cite our survey paper: [A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability](https://arxiv.org/pdf/2204.08570.pdf) with:
+This repository aims to provide links to works in trustworthy graph neural networks. If you find this repo useful, please cite our survey [A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability](https://arxiv.org/pdf/2204.08570.pdf) with:
 ```
 @article{dai2022comprehensive,
   title={A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability},
@@ -10,7 +10,21 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 ```
 
 ## Content
-
+* [1. Survey Papers](#1-survey-papers)
+* [2. Datasets](#2-datasets)
+    * [2.1 Fairness](#21-fainess)
+    * [2.2 Privacy](#22-privacy)
+    * [2.3 Explainability](#23-explainability)
+* [3. Fairness](#3-fairness-in-graph-neural-networks)
+* [4. Privacy](#4-privacy-in-graph-neural-networks)
+    * [4.1 Privacy Attacks on Graphs](#41-privacy-attacks-on-graphs)
+    * [4.2 Privacy-Preserving GNNs](#42-privacy-preserving-gnns)
+* [5. Explainability](#5-explainable-graph-neural-networks)
+    * [5.1 Self-Explainable GNNs](#51-self-explainable-gnns)
+    * [5.2 Posthoc Explainable GNNs](#52-posthoc-explainable-gnns)
+* [6. Robustness](#6-robustness-in-graph-neural-networks)
+    * [6.1 Graph Adversarial Attacks](#61-graph-adversarial-attacks)
+    * [6.2 Robust GNNs](#62-robust-gnns)
 ## 1. Survey Papers
 1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.**
     SIGKDD Explorations 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
@@ -22,31 +36,31 @@ This repository aims to provide links to works in trustworthy graph neural netwo
     arxiv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf) 
 
 ## 2. Datasets
-### Fainess
+### 2.1 Fairness
 |Dataset|  Task   | Labels | Sensitive Attributes | Link |
 |------|---------|--------|----------------------|------|
 | Pokec-n | Node classificaiton | Job | Region | [[code](https://github.com/EnyanDai/FairGNN/tree/main/dataset)]|
 |To add|
-|------|---------|--------|----------------------|------|
 
-### Privacy
+
+### 2.2 Privacy
 | Dataset | Task | #Graphs | #Nodes | Link |
 |---------|------|--------|---------|------|
 |To add|
 
-### Explainability
+### 2.3 Explainability
 | Dataset | Task | #Graphs | #Nodes | Link |
 |---------|------|--------|---------|------|
 |To add|
 
-## 3. Fairness in Graph Neural Networks
+## 3. Fairness
 order by years
 1. Say No to the Discrimination: Learning Fair Graph Neural Networks with Limited Sensitive Attribute Information" WSDM 2021. [[pape](https://arxiv.org/pdf/2009.01454.pdf)], [[code](https://github.com/EnyanDai/FairGNN)]
 1. ...
 
 
 
-## 4. Privacy in Graph Neural Networks
+## 4. Privacy
 ### 4.1 Privacy Attacks on Graphs
 1. 
 1.
@@ -55,10 +69,10 @@ order by years
 1. 
 
 
-## 5. Explainable Graph Neural Networks
+## 5. Explainability
 ### 5.1 Self-Explainable GNNs
 ### 5.2 Posthoc Explainable GNNs
 
-## 6. Robustness in Graph Neural Networks
+## 6. Robustness
 ### 6.1 Graph Adversarial Attacks
 ### 6.2 Robust GNNs
