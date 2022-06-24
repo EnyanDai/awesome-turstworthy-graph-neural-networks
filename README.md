@@ -95,7 +95,6 @@ order by years
 2. **ProtGNN: Towards Self-Explaining Graph Neural Networks**. AAAI 2022. [[paper]](https://arxiv.org/abs/2112.00911)
 3. **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2201.12987v1)
 4. **KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**. AAAI 2022. [[paper]](https://arxiv.org/pdf/2201.00491.pdf)
-5. **Prototype-Based Explanations for Graph Neural Networks**. AAAI 2022. [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
 
 ### 5.2 Posthoc Explainable GNNs
 
@@ -121,6 +120,7 @@ order by years
 20.  **Reinforced Causal Explainer for Graph Neural Networks**. TPAMI 2022. [[paper]](https://arxiv.org/abs/2204.11028)
 21.  **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**. AISTATS 2022  [[paper]](https://arxiv.org/abs/2102.03322)
 22.  **Discovering Invariant Rationales for Graph Neural Networks**. ICLR 2022. [[paper]](https://arxiv.org/abs/2201.12872)
+23. **Prototype-Based Explanations for Graph Neural Networks**. AAAI 2022. [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
 
 
 ## 6. Robustness
