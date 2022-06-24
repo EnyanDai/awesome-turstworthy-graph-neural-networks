@@ -91,7 +91,33 @@ order by years
 
 ## 5. Explainability
 ### 5.1 Self-Explainable GNNs
+1. **Towards Self-Explainable Graph Neural Network**. CIKM 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482306)
+2. **ProtGNN: Towards Self-Explaining Graph Neural Networks**. AAAI 2022. [[paper]](https://arxiv.org/abs/2112.00911)
+3. **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2201.12987v1)
+
+
 ### 5.2 Posthoc Explainable GNNs
+
+1. **Gnnexplainer: Generating explanations for graph neural networks**. *Ying Rex, Bourgeois Dylan, You Jiaxuan, Zitnik Marinka, Leskovec Jure*. NeurIPS 2019. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) [[code]](https://github.com/RexYing/gnn-model-explainer)
+2. **Explainability methods for graph convolutional neural networks**. *Pope Phillip E, Kolouri Soheil, Rostami Mohammad, Martin Charles E, Hoffmann Heiko*. CVPR 2019.[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+3. **Parameterized Explainer for Graph Neural Network**. *Luo Dongsheng, Cheng Wei, Xu Dongkuan, Yu Wenchao, Zong Bo, Chen Haifeng, Zhang Xiang*. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2011.04573) [[code]](https://github.com/flyingdoog/PGExplainer)
+4. **Xgnn: Towards model-level explanations of graph neural networks**. *Yuan Hao, Tang Jiliang, Hu Xia, Ji Shuiwang*. KDD 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085). 
+5. **Evaluating Attribution for Graph Neural Networks**. *Sanchez-Lengeling Benjamin, Wei Jennifer, Lee Brian, Reif Emily, Wang Peter, Qian Wesley, McCloskey Kevin, Colwell  Lucy, Wiltschko Alexander*. NeurIPS  2020.[[paper]](https://proceedings.neurips.cc/paper/2020/file/417fbbf2e9d5a28a855a11894b2e795a-Paper.pdf)
+6. **PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks**. *Vu Minh, Thai My T.*. NeurIPS  2020. [[paper]](https://arxiv.org/pdf/2010.05788.pdf)
+7. **Causal Screening to Interpret Graph Neural Networks**. [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
+8.  **GraphSVX: Shapley Value Explanations for Graph Neural Networks**. ECML PKDD 2021. [[paper]](https://arxiv.org/abs/2104.10482)
+9.  **GNES: Learning to Explain Graph Neural Networks**. ICDM 2021. [[paper]](https://www.researchgate.net/profile/Yuyang-Gao-4/publication/355259484_GNES_Learning_to_Explain_Graph_Neural_Networks/links/616986a6b90c512662459391/GNES-Learning-to-Explain-Graph-Neural-Networks.pdf)
+10.  **Generative Causal Explanations for Graph Neural Networks**. ICML 2021. [[paper]](https://arxiv.org/abs/2104.06643)
+11.  **On Explainability of Graph Neural Networks via Subgraph Explorations**. ICML 2021. [[paper]](https://arxiv.org/abs/2102.05152)
+12.  **Zorro: Valid, Sparse, and Stable Explanations in Graph Neural Networks**.  [[paper]](https://arxiv.org/abs/2105.08621)
+13.  **Robust Counterfactual Explanations on Graph Neural Networks**. Neurips 2021. [[paper]](https://arxiv.org/abs/2107.04086)
+14.  **When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods**. KDD 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467283)
+15.  **Towards Multi-Grained Explainability for Graph Neural Networks**. Neurips 2021. [[paper]](http://staff.ustc.edu.cn/~hexn/papers/nips21-explain-gnn.pdf)
+16.  **Discovering Invariant Rationales for Graph Neural Networks**. ICLR 2022. [[paper]](https://arxiv.org/abs/2201.12872)
+17.  **On Consistency in Graph Neural Network Interpretation**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.13733)
+18. **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08815)
+19.  **MotifExplainer: a Motif-based Graph Neural Network Explainer**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.00519)
+
 
 ## 6. Robustness
 ### 6.1 Graph Adversarial Attacks
