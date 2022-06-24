@@ -40,6 +40,11 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 |Dataset|  Task   | Labels | Sensitive Attributes | Link |
 |------|---------|--------|----------------------|------|
 | Pokec-n | Node classificaiton | Job | Region | [[code](https://github.com/EnyanDai/FairGNN/tree/main/dataset)]|
+| Pokec-z | Node classificaiton | Job | Region | [[code](https://github.com/EnyanDai/FairGNN/tree/main/dataset)]|
+| NBA | Node classificaiton | Salary | Nationality | [[code](https://github.com/EnyanDai/FairGNN/tree/main/dataset)]|
+| German Credit | Node classificaiton | Credit Risk | Gender | [[code](https://github.com/chirag126/nifty/tree/main/dataset)]|
+| Recidivism | Node classificaiton | Bail | Race | [[code](https://github.com/chirag126/nifty/tree/main/dataset)]|
+| Credit Defaulter | Node classificaiton | Default | Age | [[code](https://github.com/chirag126/nifty/tree/main/dataset)]|
 |To add|
 
 
