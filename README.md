@@ -45,7 +45,13 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 | German Credit | Node classificaiton | Credit Risk | Gender | [[code](https://github.com/chirag126/nifty/tree/main/dataset)]|
 | Recidivism | Node classificaiton | Bail | Race | [[code](https://github.com/chirag126/nifty/tree/main/dataset)]|
 | Credit Defaulter | Node classificaiton | Default | Age | [[code](https://github.com/chirag126/nifty/tree/main/dataset)]|
-|To add|
+| MovieLens | Link Prediction | - | Multi-attribute | [[code](https://grouplens.org/datasets/movielens/)]|
+| Reddit | Link Prediction | - | Multi-attribute | [[code](https://files.pushshift.io/reddit/submissions/)]|
+| Polblog | Link Prediction | - | Community | [[code](http://konect.cc/networks/dimacs10-polblogs/)]|
+| Twitter | Link Prediction | - | Politics | [[code](https://github.com/ahmadkhajehnejad/CrossWalk/tree/master/data)]|
+| Facebook | Link Prediction | - | Gender | [[code](https://github.com/jiank2/inform/tree/main/data)]|
+| Google+ | Link Prediction | - | Gender | [[code](http://konect.cc/networks/ego-gplus/)]|
+| Google+ | Link Prediction | - | Gender | [[code](https://www.stats.ox.ac.uk/~snijders/siena/tutorial2010_data.htm)]|
 
 
 ### 2.2 Privacy
