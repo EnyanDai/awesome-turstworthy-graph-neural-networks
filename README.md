@@ -80,13 +80,36 @@ order by years
 1. **Bursting the filter bubble: Fairness-aware network link prediction** AAAI 2020. [[paper](https://arxiv.org/pdf/1905.10674.pdf)], [[code](https://github.com/farzmas/FLIP)]
 1. **Compositional Fairness Constraints for Graph Embeddings** ICML 2019. [[paper](https://arxiv.org/pdf/1905.10674.pdf)], [[code](https://github.com/joeybose/Flexible-Fairness-Constraints)]
 1. **Fairwalk: Towards fair graph embedding** IJCAI 2019. [[paper](https://www.ijcai.org/Proceedings/2019/0456.pdf)], [[code](https://github.com/mridul2899/Fairwalk_Towards_Fair_Graph_Embedding)]
+
+
 ## 4. Privacy
 ### 4.1 Privacy Attacks on Graphs
-1. 
-1.
+1. **Quantifying Privacy Leakage in Graph Embedding**. *Duddu, Vasisht, Antoine Boutet, and Virat Shejwalkar*. MobiQuitous 2020. [[paper](https://arxiv.org/pdf/2010.00906.pdf)], [[code](https://github.com/vasishtduddu/GraphLeaks)]
+2. **Membership Inference Attack on Graph Neural Networks**. *Olatunji, Iyiola E., Wolfgang Nejdl, and Megha Khosla*. TPS-ISA 2021. [[paper](https://arxiv.org/pdf/2101.06570.pdf)], [[code](https://github.com/iyempissy/rebMIGraph)]
+3. **Node-Level Membership Inference Attacks Against Graph Neural Networks**. *Xinlei He, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang*. ArXiv 2021. [[paper](https://arxiv.org/pdf/2102.05429.pdf)], [[code]()]
+4. **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications**. *Bang Wu, Xiangwen Yang, Shirui Pan, Xingliang Yuan*. ICDM 2021. [[paper](https://arxiv.org/pdf/2110.08760.pdf)], [[code]()]
+5. **Inference Attacks Against Graph Neural Networks**. *Zhang, Zhikun and Chen, Min and Backes, Michael and Shen, Yun and Zhang, Yang*. USENIX Security 2022. [[paper](https://www.usenix.org/system/files/sec22summer_zhang-zhikun.pdf)], [[code](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)]
+6. **Stealing Links from Graph Neural Networks**. *Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang*. USENIX Security 2021. [[paper](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)], [[code]()]
+7. **Graphmi: Extracting private graph data from graph neural networks**. *Zaixi Zhang, Qi Liu, Zhenya Huang, Hao Wang, Chengqiang Lu, Chuanren Liu, Enhong Chen*. . [[paper](https://www.ijcai.org/proceedings/2021/0516.pdf)], [[code](https://github.com/zaixizhang/GraphMI)]
+8. **Model extraction attacks on graph neural networks: Taxonomy and realization**. *Bang Wu, Xiangwen Yang, Shirui Pan, Xingliang Yuan*. ASIA CCS 2022,. [[paper](https://dl.acm.org/doi/pdf/10.1145/3488932.3497753)], [[code](https://github.com/TrustworthyGNN/MEA-GNN)]
+9. **Model stealing attacks against inductive graph neural networks**. *Yun Shen, Xinlei He, Yufei Han, Yang Zhang*. IEEE S&P 2022. [[paper](https://arxiv.org/pdf/2112.08331.pdf)], [[code](https://github.com/xinleihe/GNNStealing)]
 
 ### 4.2 Privacy-Preserving GNNs
-1. 
+1. **Releasing Graph Neural Networks with Differential Privacy**. *Iyiola E. Olatunji, Thorben Funke, Megha Khosla*. ArXiv 2021. [[paper]()], [[code]()]
+2. **Locally Private Graph Neural Networks**. *Sajadmanesh, Sina and Gatica-Perez, Daniel*. CCS 2021. [[paper](https://arxiv.org/pdf/2006.05535.pdf)], [[code](https://github.com/sisaman/LPGNN)]
+3. **DPNE: Differentially Private Network Embedding**. *Depeng Xu, Shuhan Yuan, Xintao Wu, and HaiNhat Phan*. PKDD 2018. [[paper](http://www.csce.uark.edu/~xintaowu/publ/pakdd18.pdf)], [[code]()]
+4. **Graph Embedding for Recommendation against Attribute Inference Attacks**. *Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Lizhen Cui, Xiangliang Zhang*. Web Conf. 2021. [[paper](https://arxiv.org/pdf/2101.12549.pdf)], [[code]()]
+5. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation**. *Chuhan Wu, Fangzhao Wu, Yang Cao, Yongfeng Huang, Xing Xie*. ArXiv 2021. [[paper](https://arxiv.org/pdf/2102.04925.pdf)], [[code](https://github.com/wuch15/FedPerGNN)]
+6. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**. *Chaochao Chen, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia Wu, Bingzhe Wu, Ziqi Liu, Li Wang, Xiaolin Zheng*. ArXiv 2020. [[paper](https://arxiv.org/pdf/2005.11903.pdf)], [[code]()]
+7. **Federated Social Recommendation with Graph Neural Network**. *Zhiwei Liu, Liangwei Yang, Ziwei Fan, Hao Peng, Philip S. Yu*. TIST 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3501815)], [[code]()]
+8. **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks**. *Chaoyang He, Emir Ceyani, Keshav Balasubramanian, Murali Annavaram, Salman Avestimehr*. ArXiv 2021. [[paper](https://arxiv.org/pdf/2106.02743.pdf)], [[code](https://github.com/FedML-AI/SpreadGNN)]
+9. **Decentralized Federated Graph Neural Networks**. *Yang Pei1, Renxin Mao, Yang Liu, Chaoran Chen, Shifeng Xu, Feng Qiang*. FTL-IJCAI 2021. [[paper](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf)], [[code]()]
+10. **Federated Graph Classification over Non-IID Graphs**. *Han Xie, Jing Ma, Li Xiong, Carl Yang*. NIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)], [[code](https://github.com/Oxfordblue7/GCFL)]
+11. **GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs**. *Binghui Wang, Ang Li, Hai Li, Yiran Chen*. ArXiv 2020. [[paper](https://arxiv.org/pdf/2012.04187.pdf)], [[code]()]
+12. **ASFGNN: Automated separated-federated graph neural network**. *Longfei Zheng, Jun Zhou, Chaochao Chen, Bingzhe Wu, Li Wang, Benyu Zhang*. [[paper](https://link.springer.com/content/pdf/10.1007/s12083-021-01074-w.pdf)], [[code]()]
+13. **Adversarial Privacy Preserving Graph Embedding against Inference Attack**. *Kaiyang Li, Guangchun Luo, Yang Ye, Wei Li, Shihao Ji, Zhipeng Cai*. IEEE IoT 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9250489)], [[code](https://github.com/KaiyangLi1992/Privacy-Preserving-Social-Network-Embedding)]
+14. **Information Obfuscation of Graph Neural Networks**. *Peiyuan Liao, Han Zhao, Keyulu Xu, Tommi Jaakkola, Geoffrey Gordon, Stefanie Jegelka, Ruslan Salakhutdinov*. ICML 2021. [[paper](https://proceedings.mlr.press/v139/liao21a/liao21a.pdf)], [[code](https://github.com/liaopeiyuan/GAL)]
+15. **Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective**. *Binghui Wang, Jiayi Guo, Ang Li, Yiran Chen, Hai Li*. KDD 2021. [[paper](https://arxiv.org/pdf/2107.01475.pdf)], [[code]()]
 
 
 ## 5. Explainability
