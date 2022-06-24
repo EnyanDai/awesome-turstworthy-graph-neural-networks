@@ -55,7 +55,8 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 | Dutch | Link Prediction | - | Gender | [[code](https://www.stats.ox.ac.uk/~snijders/siena/tutorial2010_data.htm)]|
 
 ### 2.2 Privacy
-| Dataset   | Type   | Graphs    | Avg. Nodes  | Avg. Edges  | Features  |
+|Dataset| Type   | Graphs    | Avg. Nodes  | Avg. Edges  | Features  |
+|------|---------|--------|--------|------|-----|
 |Coauthor       |Authorship|1          |34493   | 247962 |8415       |
 |ACM|Authorship|1|3025|26256|1870|
 |Facebook|Social Networks|1|4039|88234||
