@@ -12,7 +12,7 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 ## Content
 * [1. Survey Papers](#1-survey-papers)
 * [2. Datasets](#2-datasets)
-    * [2.1 Fairness](#21-fainess)
+    * [2.1 Fairness](#21-fairness)
     * [2.2 Privacy](#22-privacy)
     * [2.3 Explainability](#23-explainability)
 * [3. Fairness](#3-fairness)
@@ -113,7 +113,7 @@ order by years
 
 
 
-## 3. Defense Papers
+## 6.2 Robust GNNs
 1. **Adversarial training methods for network embedding.** WWW 2019. [[paper]] [[code]] 
 1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.** 
