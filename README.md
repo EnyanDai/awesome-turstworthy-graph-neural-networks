@@ -94,7 +94,8 @@ order by years
 1. **Towards Self-Explainable Graph Neural Network**. CIKM 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482306)
 2. **ProtGNN: Towards Self-Explaining Graph Neural Networks**. AAAI 2022. [[paper]](https://arxiv.org/abs/2112.00911)
 3. **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2201.12987v1)
-
+4. **KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**. AAAI 2022. [[paper]](https://arxiv.org/pdf/2201.00491.pdf)
+5. **Prototype-Based Explanations for Graph Neural Networks**. AAAI 2022. [[paper]](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
 
 ### 5.2 Posthoc Explainable GNNs
 
@@ -117,6 +118,9 @@ order by years
 17.  **On Consistency in Graph Neural Network Interpretation**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.13733)
 18. **GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08815)
 19.  **MotifExplainer: a Motif-based Graph Neural Network Explainer**. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.00519)
+20.  **Reinforced Causal Explainer for Graph Neural Networks**. TPAMI 2022. [[paper]](https://arxiv.org/abs/2204.11028)
+21.  **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks**. AISTATS 2022  [[paper]](https://arxiv.org/abs/2102.03322)
+22.  **Discovering Invariant Rationales for Graph Neural Networks**. ICLR 2022. [[paper]](https://arxiv.org/abs/2201.12872)
 
 
 ## 6. Robustness
