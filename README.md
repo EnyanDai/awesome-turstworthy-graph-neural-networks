@@ -59,7 +59,7 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 |------|---------|--------|--------|------|-----|
 |Coauthor       |Authorship|1          |34493   | 247962 |8415       |
 |ACM|Authorship|1|3025|26256|1870|
-|Facebook|Social Networks|1|4039|88234||
+|Facebook|Social Networks|1|4039|88234|-|
 |LastFM|Social Networks|1|7624|27806|7824|
 |Reddit|Social Networks|1|232965|57307946|602|
 |Flickr|Image|1|89250|449878|500|
