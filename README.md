@@ -73,13 +73,13 @@ order by years
 1. **Towards a unified framework for fair and stable graph representation learning** UAI 2021. [[paper](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)], [[code](https://github.com/chirag126/nifty)]
 1. **InFoRM: Individual Fairness on Graph Mining** KDD 2020. [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403080)], [[code](https://github.com/jiank2/inform)]
 1. **FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning** IEEE Transactions on Artificial Intelligence 2021. [[paper](https://arxiv.org/pdf/2104.14210.pdf)], [[code](https://github.com/ispamm/FairDrop)]
-1. **On dyadic fairness: Exploring and mitigating bias in graph connections** ICLR 2021. [[paper](https://openreview.net/pdf?id=xgGS6PmzNq6)], [[code]([https://github.com/farzmas/FLIP](https://github.com/brandeis-machine-learning/FairAdj))]
+1. **On dyadic fairness: Exploring and mitigating bias in graph connections** ICLR 2021. [[paper](https://openreview.net/pdf?id=xgGS6PmzNq6)], [[code](https://github.com/brandeis-machine-learning/FairAdj)]
 1. **Individual fairness for graph neural networks: A ranking based approach** KDD 2021. [[paper](http://tonghanghang.org/pdfs/kdd21_redress.pdf)], [[code](https://github.com/yushundong/REDRESS)]
 1. **Fairness-Aware Node Representation Learning** KDD 2021. [[paper](https://arxiv.org/pdf/2106.05391.pdf)]
 1. **DeBayes: a Bayesian Method for Debiasing Network Embeddings** ICML 2020. [[paper](https://arxiv.org/pdf/2002.11442.pdf)], [[code](https://github.com/aida-ugent/DeBayes)]
 1. **Bursting the filter bubble: Fairness-aware network link prediction** AAAI 2020. [[paper](https://arxiv.org/pdf/1905.10674.pdf)], [[code](https://github.com/farzmas/FLIP)]
 1. **Compositional Fairness Constraints for Graph Embeddings** ICML 2019. [[paper](https://arxiv.org/pdf/1905.10674.pdf)], [[code](https://github.com/joeybose/Flexible-Fairness-Constraints)]
-1. **Fairwalk: Towards fair graph embedding** IJCAI 2019. [[paper](https://www.ijcai.org/Proceedings/2019/0456.pdf], [[code](https://github.com/mridul2899/Fairwalk_Towards_Fair_Graph_Embedding)]
+1. **Fairwalk: Towards fair graph embedding** IJCAI 2019. [[paper](https://www.ijcai.org/Proceedings/2019/0456.pdf)], [[code](https://github.com/mridul2899/Fairwalk_Towards_Fair_Graph_Embedding)]
 ## 4. Privacy
 ### 4.1 Privacy Attacks on Graphs
 1. 
