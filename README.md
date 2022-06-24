@@ -51,7 +51,7 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 | Twitter | Link Prediction | - | Politics | [[code](https://github.com/ahmadkhajehnejad/CrossWalk/tree/master/data)]|
 | Facebook | Link Prediction | - | Gender | [[code](https://github.com/jiank2/inform/tree/main/data)]|
 | Google+ | Link Prediction | - | Gender | [[code](http://konect.cc/networks/ego-gplus/)]|
-| Google+ | Link Prediction | - | Gender | [[code](https://www.stats.ox.ac.uk/~snijders/siena/tutorial2010_data.htm)]|
+| Dutch | Link Prediction | - | Gender | [[code](https://www.stats.ox.ac.uk/~snijders/siena/tutorial2010_data.htm)]|
 
 
 ### 2.2 Privacy
