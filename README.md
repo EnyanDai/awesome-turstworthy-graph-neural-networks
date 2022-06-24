@@ -35,6 +35,7 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 1. **Adversarial Attack and Defense on Graph Data: A Survey.**
     arxiv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf) 
 
+
 ## 2. Datasets
 ### 2.1 Fairness
 |Dataset|  Task   | Labels | Sensitive Attributes | Link |
@@ -53,16 +54,26 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 | Google+ | Link Prediction | - | Gender | [[code](http://konect.cc/networks/ego-gplus/)]|
 | Dutch | Link Prediction | - | Gender | [[code](https://www.stats.ox.ac.uk/~snijders/siena/tutorial2010_data.htm)]|
 
-
 ### 2.2 Privacy
-| Dataset | Task | #Graphs | #Nodes | Link |
-|---------|------|--------|---------|------|
-|To add|
+| Dataset   | Type   | Graphs    | Avg. Nodes  | Avg. Edges  | Features  |
+|Coauthor       |Authorship|1          |34493   | 247962 |8415       |
+|ACM|Authorship|1|3025|26256|1870|
+|Facebook|Social Networks|1|4039|88234||
+|LastFM|Social Networks|1|7624|27806|7824|
+|Reddit|Social Networks|1|232965|57307946|602|
+|Flickr|Image|1|89250|449878|500|
+|PROTEINS|Bioinformatics|1113|39.06|72.82|29|
+|DD|Bioinformatics|1178|284.32|715.66|89|
+|ENZYMES|Bioinformatics|600|32.63|62.14|21|
+|NCI1|Molecule|4110|29.87|32.30|37|
+|AIDS|Molecule|2000|15.69|16.20|42|
+|OVCAR-8H|Molecule|4052|46.67|48.70|65|
 
 ### 2.3 Explainability
 | Dataset | Task | #Graphs | #Nodes | Link |
 |---------|------|--------|---------|------|
 |To add|
+
 
 ## 3. Fairness
 order by years
