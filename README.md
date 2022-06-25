@@ -71,10 +71,19 @@ This repository aims to provide links to works in trustworthy graph neural netwo
 |OVCAR-8H|Molecule|4052|46.67|48.70|65|
 
 ### 2.3 Explainability
-| Dataset | Task | #Graphs | #Nodes | Link |
-|---------|------|--------|---------|------|
-|To add|
-
+| Dataset       | Task | #Graphs       | #Nodes | Link |
+|---------------|----------------------|--------|-----------|-----------|
+| BA-Shapes     | Node classification  | 1      | 700       | 4,110     |
+| BA-Community  | Node classification  | 1      | 1,400     | 8,920     |
+| Tree-Cycles   | Node classification  | 1      | 871       | 1,950     |
+| Tree-Grid     | Node classification  | 1      | 1,231     | 3,410     |
+| Syn-Cora      | Node classification  | 1      | 1,895     | 2,769     |
+| BA-2motifs    | Graph classification | 1,000  | 25        | 51.4      |
+| Infection     | Graph classification | 10     | 1000      | 3996      |
+| Graph-SST2    | Graph classification | 70,042 | 10.199    | 9.20      |
+| Graph-SST5    | Graph classification | 11,855 | 19.849    | 18.849    |
+| Graph-Twitter | Graph classification | 6,949  | 21.103    | 21.10     |
+| MUTAG         | Graph classification | 188    | 19.79     | 17.93     |
 
 ## 3. Fairness
 order by years
